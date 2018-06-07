@@ -1,4 +1,4 @@
-QuizBundle
+QuizBundle 2
 ==========
 
 Introduction
